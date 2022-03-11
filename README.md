@@ -5,4 +5,10 @@ Python code will be written within this repository. Feel free to modify, edit, c
 lname = Spencer
 print('fname + lname')'
 ---
-
+'n = 5'
+'while n > 0:'
+  'print(n)'
+  'n = n + 1'
+'print('Blastoff!)'
+'print(n)'
+---
